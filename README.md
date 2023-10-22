@@ -15,4 +15,16 @@ Basically she was interested in knowing the work prefrence of people like on whi
 And what could be the reason behind taking seek leaves, Do they need to take extra safety measures in office.
 Also the AtliQ team wanted to understand the number of presence so that they can plan meeting,team lunch, or any program when majority of people are present in the company. 
 
+## Steps followed in this project : 
+
+1. Connected the Excel data set to PowerBI.
+2. Performed ETL and data cleaning on the imported data using power Query.
+3. Created different measures as per the need and used them in creating visuals in powerbi.
+4. Created additional coloumns using DAX formulas.
+5. At last created Dashboard as per the requirements.
+
+## Dashboard 
+
+<img src= "C:\Users\nehun\OneDrive\Pictures\Screenshots >
+
 
