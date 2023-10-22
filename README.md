@@ -10,4 +10,9 @@ She wants answers related to HR related queries in the form of daashboard which 
 
 ## Understanding Requirements
 
+In this project Excel sheet was provided by HR manager Pinali, in this sheet three months data was provided, she wanted to get insights from this sheet. 
+Basically she was interested in knowing the work prefrence of people like on which day the employee is taking leave on Monday or Friday, Or on which day employees are taking work from home.
+And what could be the reason behind taking seek leaves, Do they need to take extra safety measures in office.
+Also the AtliQ team wanted to understand the number of presence so that they can plan meeting,team lunch, or any program when majority of people are present in the company. 
+
 
