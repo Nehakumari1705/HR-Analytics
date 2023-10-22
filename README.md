@@ -25,6 +25,6 @@ Also the AtliQ team wanted to understand the number of presence so that they can
 
 ## Dashboard 
 
-<img src= "C:\Users\nehun\OneDrive\Pictures\Screenshots >
+<img src= "https://github.com/Nehakumari1705/HR-Analytics/blob/main/Screenshot%202023-10-22%20155033.png" >
 
 
